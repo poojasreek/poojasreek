@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hey there, I'm Poojasree Kumar
 
-<!--
-**poojasreek/poojasreek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Artificial Intelligence and Datascience student  
+🌐 Passionate about building real-world web applications  
+💡 Interested in Frontend Development, AI, and Data Visualization  
+📊 Certified in AWS Cloud, Power BI, Generative AI, and Blockchain  
+💻 Tools I work with: HTML, CSS, JavaScript, Python, SQL, Three.js, Power BI
 
-Here are some ideas to get you started:
+🚀 Recent Project: [TravelExplore – Live Tourism Web App](https://686670f3568576e4ab0b7038--touristmangement.netlify.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect with me:  
+LinkedIn: www.linkedin.com/in/poojasree-kumar-bb0700354 
+
